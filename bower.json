@@ -1,0 +1,11 @@
+{
+  "name": "binarta.web.storage",
+  "main": "./src/web.storage.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
