@@ -20,4 +20,4 @@ Utility factory for retrieving web storage objects with fallback to in-memory st
     However, if GPL Version 3 terms are incompatible with your
     planned use of this program, alternative license terms are
     available from Websters NV.
-    Please direct inquiries to support@websters.be.
+    Please direct inquiries to dev@websters.be.
