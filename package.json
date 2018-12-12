@@ -1,7 +1,7 @@
 {
   "name": "@binarta/web.storage",
   "description": "Utility factory for retrieving web storage objects with fallback to in-memory storage.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {},
   "devDependencies": {
     "jasmine-core": "^2.4.1",
