@@ -5,8 +5,8 @@ Utility factory for retrieving web storage objects with fallback to in-memory st
 ## Copyright and license
 
     This program is available under dual licensing.
-    Copyright (c) 2013 thinkerIT BVBA
-    http://thinkerit.be
+    Copyright (c) 2013 Websters NV
+    https://websters.be
     
     You can redistribute this program and/or modify it under the
     terms of the GNU General Public License (GPL) version 3 as
@@ -19,5 +19,5 @@ Utility factory for retrieving web storage objects with fallback to in-memory st
     
     However, if GPL Version 3 terms are incompatible with your
     planned use of this program, alternative license terms are
-    available from thinkerIT BVBA.
-    Please direct inquiries to info@thinkerit.be or +32 16 84 44 40.
+    available from Websters NV.
+    Please direct inquiries to support@websters.be.

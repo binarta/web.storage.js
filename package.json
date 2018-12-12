@@ -1,9 +1,27 @@
 {
+  "name": "@binarta/web.storage",
+  "description": "Utility factory for retrieving web storage objects with fallback to in-memory storage.",
+  "version": "0.0.1",
+  "dependencies": {},
   "devDependencies": {
     "jasmine-core": "^2.4.1",
     "karma": "^0.13.22",
     "karma-jasmine": "^1.0.2",
     "karma-phantomjs-launcher": "^1.0.0",
-    "phantomjs": "^2.1.1"
-  }
+    "phantomjs-prebuilt": "^2.1.1"
+  },
+  "scripts": {
+    "test": "karma start karma.conf.js --single-run",
+    "test:watch": "karma start karma.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/binarta/web.storage.js.git"
+  },
+  "author": "Websters NV",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/binarta/web.storage.js/issues"
+  },
+  "homepage": "https://github.com/binarta/web.storage.js#readme"
 }
